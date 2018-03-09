@@ -1,4 +1,4 @@
-#DINPS
+#Distributed Inexact Newton-type Pursuit for Sparse Deep Learning (DINPS)
 1. install MXNet 1.1.0 Linux version (with gpu):https://mxnet.apache.org/install/index.html
 2. install python(anaconda); and make sure the folder ~/anaconda2 exists
 3. clone the git repository to /path/to/DINPS
