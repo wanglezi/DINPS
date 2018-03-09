@@ -5,7 +5,7 @@
 4. cd DINP
 5. edit the host file and content should be in the format as following:
  
-	machine_IP_addr GPU_ID
+	"machine_IP_addr" "GPU_ID"
 
 6. an example command of training a sparse model of Lenet3 on MNIST data
 
